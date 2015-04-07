@@ -1,0 +1,19 @@
+tr.greenrow {
+	background-color: lime;
+}
+
+tr.bluerow{
+	background-color: aqua;
+}
+
+td.sidetitle{
+	font-style: italic;
+}
+
+td.firstnonheader{
+	color: red;
+}
+
+td.thirdnonheader{
+	color: blue;
+}
