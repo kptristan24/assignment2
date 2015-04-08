@@ -17,3 +17,25 @@ td.firstnonheader{
 td.thirdnonheader{
 	color: blue;
 }
+
+dt:hover + dd{
+	background: purple;	
+}
+
+.outer-container{
+	width: 75%;
+	background-color: pink;
+	height: 100px;
+
+
+}
+
+.inner-container{
+	position: absolute;
+	width: 75%;
+	height: 75%;
+	background: blue;
+	left: 25%;
+	top: 25%;
+	
+}
