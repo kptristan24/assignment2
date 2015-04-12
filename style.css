@@ -23,19 +23,30 @@ dt:hover + dd{
 }
 
 .outer-container{
+	position: fixed;
 	width: 75%;
 	background-color: pink;
 	height: 100px;
+	margin-top: 20px;
+	
+	
 
 
 }
 
 .inner-container{
-	position: absolute;
+	position: relative;
 	width: 75%;
-	height: 75%;
-	background: blue;
-	left: 25%;
+	height: 50%;
+
+	background: aqua;
 	top: 25%;
+	margin: 0 auto;
 	
+	text-align: center;
+	vertical-align: middle;
+}
+
+.wrappum{
+	float: left;
 }
