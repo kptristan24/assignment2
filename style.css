@@ -23,7 +23,7 @@ dt:hover + dd{
 }
 
 .outer-container{
-	position: fixed;
+	position: relative;
 	width: 75%;
 	background-color: pink;
 	height: 100px;
